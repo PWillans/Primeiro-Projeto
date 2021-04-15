@@ -1,0 +1,69 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Righteous&display=swap');
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-image:linear-gradient(to right, #201e1c, #720f0f);
+}
+
+main {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px #2e2118;
+    width: 850px;
+    padding: 10px;
+    margin: auto;
+}
+
+h1 {
+
+    font-size: 2.5em;
+    font-family: 'Architects Daughter', cursive;
+    text-align: center;
+    color: #a11010;
+    text-shadow: (1px 1px 10px #b8063bde);
+    
+}
+    
+h2 {
+    font-family: 'Architects Daughter', cursive;
+    text-align: center;
+    color: #52061D;
+}
+
+h3 {
+    font-family: 'Architects Daughter', cursive;
+    text-align: justify;
+    color: #52061D;
+}
+p {
+    font-family: 'Righteous', cursive;
+    text-align: justify;
+    color: #52061D;
+}
+
+ul {
+    background-color: #fff;
+    text-align: left;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px #88491c;
+    width: 200px;
+    padding: 10px;
+    margin: auto;
+    font-family: 'Righteous', cursive;
+    color: #a11010;
+}
+    
+
+li {
+    
+    font-family: 'Righteous', cursive;
+    color: #a11010;
+}
+    
